@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: </h3>
-<h3>Register Number:     </h3>
+<h3>Name:Piyush Kumar </h3>
+<h3>Register Number:212223220075    </h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -57,36 +57,22 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 <h3>Sample Input</h3>
 <hr>
-8 9 <BR>
+4 3 <BR>
 A B <BR>
 A C <BR>
-B E <BR>
-C D <BR>
 B D <BR>
-C G <BR>
-D F <BR>
-G F <BR>
-F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
+ ['A', 'B', 'D', 'C']
+ </hr>
 
-<hr>
-
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 5 <BR>
-0 1 <BR>
-0 2 <BR>
-0 3 <BR>
-2 3 <BR>
-2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+
+<img width="602" height="381" alt="image" src="https://github.com/user-attachments/assets/18dbf072-6714-4031-ba1d-f919f24907e7" />
+
 
 <hr>
 <h3>Result:</h3>
